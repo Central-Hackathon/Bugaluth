@@ -1,4 +1,4 @@
-![Eco-Chain logo](/images/logo.png)
+![Eco-Chain logo](/Project/images/logo.png)
 
 # Bugaluth
 *Members*: Γιαχούδης Νικόλαος, Νέγκα Λυδία,Γκέτσιος Γεώργιος, Ιάσονας  Mεϊδάνης
