@@ -1,7 +1,7 @@
 ![Eco-Chain logo](/Project/images/logo.png)
 
 # Bugaluth
-*Members*: Γιαχούδης Νικόλαος, Νέγκα Λυδία,Γκέτσιος Γεώργιος, Ιάσονας  Mεϊδάνης
+**Members**: Γιαχούδης Νικόλαος (ngiachou@gmail.com), Νέγκα Λυδία (lydia.nega@gmail.com), Γκέτσιος Γεώργιος,  Mεϊδάνης Ιάσονας.
 
 ## Sort description
 eco-Chain aims to waken the citizens’ environmental awareness by using Blockchain Technology to create a reward system. The process is implemented by "smart" recycling bins, which transfer the reward-tokens that will be used as votes when choosing the municipal projects that are to be funded.
